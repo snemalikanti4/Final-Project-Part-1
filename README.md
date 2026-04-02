@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/046134ad-92f1-4cd1-a16e-d856ac00bd6d" />## Optimization in High-Performance Computing (HPC)
+## Optimization in High-Performance Computing (HPC)
 # Overview
 
 This project explores data structure optimization techniques in High-Performance Computing (HPC), focusing on improving computational efficiency, memory usage, and execution speed. HPC systems rely on advanced hardware such as multi-core processors and parallel architectures to handle complex, large-scale computations. However, inefficient data structures and poor memory access patterns can significantly degrade performance.
